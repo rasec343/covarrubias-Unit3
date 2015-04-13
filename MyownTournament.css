@@ -1,0 +1,24 @@
+body{background-image: url("messi.png");
+	border:solid;
+	border-width:30px;
+	border-color:#003366;
+	}
+	p{
+	text-align:justified;
+	width: 700px;
+	margin:auto;
+	background-color:#ffffff;
+	font-family:Arial;
+	  }
+	article{
+	background-color:#ffffff;	
+	margin:auto;
+	width: 700px;
+	}
+	img{border:solid;
+	}
+	a{color:#003366;
+	font-size:20px;
+	}
+	ul{font-size:20px;
+	}

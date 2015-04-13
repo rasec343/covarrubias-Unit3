@@ -1,0 +1,25 @@
+div{border:solid;
+	background-color:#008080;
+	width:500px;
+	margin:auto;
+	}
+	article{width:700px;
+		margin:auto;
+	background-color:#ffffff;
+	}
+	h2{background-color:#d1cfd5;
+	text-align:center;
+	}
+	body{background-image: url("messi.png");
+	}
+	a{color:#ffffff;
+	font-size:20px;
+	}
+	p{text-align:justified;
+	width: 700px;
+	margin:auto;
+	background-color:#ffffff;
+	font-family:Arial;
+	}
+	img{border:solid;
+	}
